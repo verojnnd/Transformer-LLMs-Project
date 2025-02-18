@@ -4,6 +4,7 @@
 4. English to Urdu Translation Project: Trained with the "" Dataset using pre-trained Sequence-to-Sequence Model.
 5. Mental Health Detection Project: Fine-tuning the "" Dataset using BERT Transformer.
 6. Clinical Notes Disease Prediction Project: Fine-tuning the "" Dataset using BERT Transformer. You can test the model using the 3 kinds of patient report files I provide.
+7. Speech Sound Emotion Classificatino Project: Trained with "https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess" Dataset using 'facebook/wav2vec2-base', one of Wav2Vec Model.
 
 ![UI_NLP_Pipeline](https://github.com/user-attachments/assets/20ff759c-9fad-4d31-9378-094c625b16cd)
 ![UI_Paraphrase](https://github.com/user-attachments/assets/f4f3f07b-86ef-451f-9a7b-671b6e4a8340)
